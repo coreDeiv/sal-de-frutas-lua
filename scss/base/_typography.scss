@@ -1,23 +1,15 @@
 @font-face {
-  font-family: "Helvetica";
+  font-family: "Barlow Condensed";
   font-style: normal;
   font-weight: normal;
-  src: local("Helvetica"), url("fonts/Helvetica-Bold.woff") format("woff");
+  src: local("Barlow Condensed"), url("fonts/BarlowCondensed-Regular.woff") format("woff");
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Helvetica Light";
+  font-family: "Zing Rust Demo";
   font-style: normal;
   font-weight: normal;
-  src: local("Helvetica Light"), url("fonts/helvetica-light-587ebe5a59211.woff") format("woff");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Helvetica Bold";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Helvetica Bold"), url("fonts/Helvetica-Bold.woff") format("woff");
+  src: local("Zing Rust Demo"), url("fonts/ZingRustDemo-Base.woff") format("woff");
   font-display: swap;
 }
